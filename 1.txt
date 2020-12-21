@@ -1,7 +1,6 @@
 a
 b
-cmaster
-add
+c
 d
 e
 f

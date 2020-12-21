@@ -1,6 +1,5 @@
 a
-b
-cc2
+cc
 d
 e
 f
